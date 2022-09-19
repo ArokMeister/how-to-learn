@@ -35,6 +35,7 @@
 .header__subtitle {
   position: absolute;
   max-width: 388px;
+  margin: 0;
   align-self: flex-end;
   line-height: 25px;
   font-size: 18px;
